@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-10T11:52:53 IST" name="Default suite" finished-at="2022-11-10T11:53:30 IST" duration-ms="37374">
+    <groups>
+    </groups>
+    <test started-at="2022-11-10T11:52:53 IST" name="Default test" finished-at="2022-11-10T11:53:30 IST" duration-ms="37374">
+      <class name="Saucedemo_test.Buy_test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Saucedemo_test.Buy_test@3e92efc3]" started-at="2022-11-10T11:52:53 IST" name="setUp" finished-at="2022-11-10T11:53:03 IST" duration-ms="10293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="launch()[pri:0, instance:Saucedemo_test.Buy_test@3e92efc3]" started-at="2022-11-10T11:53:03 IST" name="launch" finished-at="2022-11-10T11:53:09 IST" duration-ms="5655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="gobuy()[pri:1, instance:Saucedemo_test.Buy_test@3e92efc3]" started-at="2022-11-10T11:53:09 IST" name="gobuy" finished-at="2022-11-10T11:53:30 IST" duration-ms="21282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gobuy -->
+      </class> <!-- Saucedemo_test.Buy_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
